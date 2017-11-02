@@ -1,0 +1,23 @@
+{
+  "name": "doubleteamweb",
+  "version": "0.0.0",
+  "description": "To help users prepare for coding interview, brush up on skills, and interact with others in a peer programming type format.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaMcClintock/DoubleTeamWeb.git"
+  },
+  "author": "Amanda McClintock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaMcClintock/DoubleTeamWeb/issues"
+  },
+  "homepage": "https://github.com/AmandaMcClintock/DoubleTeamWeb#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
